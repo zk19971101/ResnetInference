@@ -1,0 +1,80 @@
+altgraph==0.17.4
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1720453481653/work/certifi
+chardet==5.2.0
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+contourpy==1.1.1
+cssselect2==0.7.0
+cuda-python==12.3.0
+cycler==0.12.1
+dominate==2.9.1
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools==4.55.3
+freetype-py==2.5.1
+fsspec==2024.6.1
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+graphviz==0.20.3
+idna @ file:///croot/idna_1714398848350/work
+imageio==2.34.2
+importlib_metadata==8.5.0
+importlib_resources==6.4.5
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+jsonpatch==1.33
+jsonpointer==3.0.0
+kiwisolver==1.4.7
+lazy_loader==0.4
+lxml==5.3.0
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.7.5
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+onnx==1.17.0
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+packaging==24.1
+pandas==2.0.3
+pillow @ file:///croot/pillow_1721059439630/work
+protobuf==5.27.3
+pycairo==1.26.1
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.10
+pyparsing==3.1.4
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.9.0.post0
+pytorch-msssim==1.0.0
+pytz==2024.1
+PyWavelets==1.4.1
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+reportlab==4.2.5
+requests @ file:///croot/requests_1721410876868/work
+rlPyCairo==0.3.0
+scikit-image==0.21.0
+scipy==1.10.1
+six==1.16.0
+svglib==1.5.1
+svgwrite==1.4.3
+sympy @ file:///croot/sympy_1701397643339/work
+tensorboardX==2.6.2.2
+tensorrt @ file:///home/liquid/software/TensorRT-10.6.0.26/python/tensorrt-10.6.0-cp38-none-linux_x86_64.whl#sha256=01c2b6afec3cec421f12bd4df5489c6968d955d29bbf9a06f7ba4d8b49b1d42d
+tifffile==2023.7.10
+tinycss2==1.4.0
+torch==2.2.0
+torch-pruning==1.4.1
+torchaudio==2.2.0
+torchvision==0.17.0
+torchviz==0.0.2
+tornado==6.4.1
+tqdm==4.66.4
+triton==2.2.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2024.1
+urllib3 @ file:///croot/urllib3_1718912636303/work
+visdom==0.2.4
+webencodings==0.5.1
+websocket-client==1.8.0
+zipp==3.20.2
