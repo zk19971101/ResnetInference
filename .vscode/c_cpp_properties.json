@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/cuda-12.2/include/**",
+                "/home/liquid/software/TensorRT-10.6.0.26/include/**",
+                "/home/liquid/lib/opencv4.10.0_install/include/opencv4/**" //指定include文件路径
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
